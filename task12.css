@@ -1,0 +1,15 @@
+#slider-image{
+    height: 300px;
+    width: 200px;
+}
+.slider-container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .slider-buttons button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+  }

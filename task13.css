@@ -1,0 +1,16 @@
+.tabs {
+    display: flex;
+  }
+  
+  .tab-link {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #eee;
+    border: none;
+    outline: none;
+  }
+  
+  .tab-content {
+    margin-top: 20px;
+  }
+  
